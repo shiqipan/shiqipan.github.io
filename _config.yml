@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shiqi(Meredith) Pan"
 title_separator          : "-"
 name                     : &name "Shiqi(Meredith) Pan"
-description              : &description "Software engineer; <\br>Computer Sciencen Theory enthusiast; <\br>intended content creator on fashion and eating disorders."
+description              : &description "Software engineer, Computer Sciencen Theory enthusiast, intended content creator on fashion and eating disorders"
 url                      : https://shiqipan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiqipan/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shiqi(Meredith) Pan"
   avatar           : "profile.png"
-  bio              : "Software engineer; <\br>Computer Sciencen Theory enthusiast; <\br>intended content creator on fashion and eating disorders."
+  bio              : "Software engineer, Computer Sciencen Theory enthusiast, intended content creator on fashion and eating disorders"
   location         : "Northampton, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
