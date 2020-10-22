@@ -4,7 +4,7 @@ collection: talks
 type: "Computational Geometry"
 permalink: /research/polyhedron_edge_rotation
 venue: "class final project (extended) with Prof. [Joseph O'Rourke](http://www.science.smith.edu/~jorourke/)"
-date: 2020
+date: 2020-03-01
 location: "Smith College"
 ---
 
