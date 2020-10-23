@@ -8,4 +8,7 @@ date: 2020-03-01
 location: "Smith College, MA"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This project investigates the path of convex polyhedra' edge rotation on a plane. Specially, given a convex polyhedron and a target point on a same plane, we analyze possible edge-rotation paths that the polyhedron takes to reach to the target.
+
+The project can be further divided into two folds:
+* The 
