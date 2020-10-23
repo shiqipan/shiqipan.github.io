@@ -1,7 +1,7 @@
 ---
 title: "Springer fibers"
 collection: talks
-type: "Conference proceedings talk"
+type: "Research project"
 permalink: /talks/springer-fibers
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
