@@ -2,7 +2,7 @@
 title: "Polyhedron Edge Rotation"
 collection: talks
 type: "Talk"
-permalink: /research/polyhedron_edge_rotation
+permalink: /talks/polyhedron_edge_rotation
 venue: "class final project (extended) with Prof. Joseph O'Rourke“
 date: 2020-03-01
 location: "Smith College"
