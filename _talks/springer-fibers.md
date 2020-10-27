@@ -1,5 +1,5 @@
 ---
-title: "Springer fibers"
+title: "Springer Fibers and Webs"
 collection: talks
 type: "Research project"
 permalink: /research/springer-fibers
@@ -12,4 +12,4 @@ This is a research project with [Prof. Tymoczko](http://www.math.smith.edu/~jtym
 
 My main research contribution includes:
 1. Investigation of patterns in promotions on standard Young tableaux with nested Young tableaux. See [journal](http://academicpages.github.io/files/Springer_Webs__Promotion_pattern_on_Young_Tableaux_with_sub_tableaux_on_its_left.pdf) for more details.
-2. 
+2. aaaa
