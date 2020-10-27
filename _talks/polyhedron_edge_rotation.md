@@ -12,7 +12,7 @@ This project investigates the path of convex polyhedra' edge rotation on a plane
 
 The project can be further divided into two components:
 1. Animation of convex polyhera's edge rotations along a Greedy path towards the target  
-* [A Mathematica program](https://github.com/shiqipan/polyhedron-greedy-edge-roll) that generates the rotation animation. Note the Greedy path is namely where at each iteration, polyhedron perform the rotation that will provide the shortest distance to the target in the current iteration.
+  * [A Mathematica program](https://github.com/shiqipan/polyhedron-greedy-edge-roll) that generates the rotation animation. Note the Greedy path is namely where at each iteration, polyhedron perform the rotation that will provide the shortest distance to the target in the current iteration.
 2. Investigation of the shortest paths for the five regular convex polyhedra, or the Platonic Solids, towards the target
-* [A proposed formula](https://academicpages.github.io/files/paper1.pdf) that computes the shorest path and its distance for the Platonic Solids
-* [A Mathematica program](https://github.com/shiqipan/rolling-polyhedron-covered-area) that visualizes areas could be covered by convex polyhedra's base within a number of rotations. This helps the analysis of the proposed formula above.
+  * [A proposed formula](https://academicpages.github.io/files/paper1.pdf) that computes the shorest path and its distance for the Platonic Solids
+  * [A Mathematica program](https://github.com/shiqipan/rolling-polyhedron-covered-area) that visualizes areas could be covered by convex polyhedra's base within a number of rotations. This helps the analysis of the proposed formula above.
