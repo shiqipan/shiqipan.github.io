@@ -1,3 +1,9 @@
+---
+title: "Research Projects"
+permalink: /research/
+author_profile: true
+---
+
 Feel free to contact me for questions regarding my experiences. I look forward to talking with you.
 
 Email: mpan@smith.edu
